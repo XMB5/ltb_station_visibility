@@ -10,3 +10,7 @@ Instructions:
 4. `python plot.py`
 
 Results in `visibility.pdf`.
+
+## Authors
+
+S. Foxman, M.P.M. Zaw
